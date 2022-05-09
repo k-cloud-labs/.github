@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♀️ A group of people who believe that code changes the world.
+
 <!--
 
 **Here are some ideas to get you started:**
